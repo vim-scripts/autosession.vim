@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=937
+
+Vim plugin for autosaving & autoloading session.
+
+  - Automatically works if no file is openned from command line and session isn't mannualy changed (i.e. session is unattended).
+  - remembers a different session for each working directory.
+  - easy: just run Vim with no parameters, and last session will be restored.
+  - for desktops: just click on the Vim icon and you'll get your last session.
+
